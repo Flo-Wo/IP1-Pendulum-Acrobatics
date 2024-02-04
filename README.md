@@ -15,8 +15,8 @@ both simple setpoint reaches as well as the generation of circular and spiral tr
 performing method, that we implement on top of the Crocoddyl library, delivers convincing simulated
 results on all investigated trajectories.
 
-# Circle
+## Circle Trajectory
 ![Alt Text](videos/circle.gif)
 
-# Spiral
+## Spiral Trajectory
 ![Alt Text](videos/spiral.gif)
