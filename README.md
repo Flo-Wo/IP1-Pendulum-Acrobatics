@@ -14,3 +14,9 @@ introducing a kinematic subtask in the control problem. We benchmark different M
 both simple setpoint reaches as well as the generation of circular and spiral trajectories. The best
 performing method, that we implement on top of the Crocoddyl library, delivers convincing simulated
 results on all investigated trajectories.
+
+# Circle
+![Alt Text](videos/circle.gif)
+
+# Spiral
+![Alt Text](videos/spiral.gif)
